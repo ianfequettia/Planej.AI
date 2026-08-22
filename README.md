@@ -71,7 +71,7 @@ Essa implementação teve como objetivo ampliar a experiência do usuário e apl
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/ianfequettia/planejai.git
+git clone https://github.com/ianfequettia/Planej.ai.git
 ```
 
 ### 2. Acesse a pasta do projeto
